@@ -4,7 +4,7 @@
 
 Šis projektas yra aritmetinio skaičiavimo treniruoklis, skirtas praktikuoti matematinius įgudžius pasirinktu sunkumo lygiu. Žaidimo tikslas - surinkti 10 teisingų atsakymų ir užpildyti skalę. Žaidimo metu leidžiama padaryti iki 3 klaidų. Jei padarote daugiau klaidų - žaidimas baigiasi.
 
-## **Priklausomybės**
+## **Bibliotekos**
 
 Šis projektas naudoja tik standartinę Python biblioteką, todėl papildomų bibliotekų diegti nereikia.
 
